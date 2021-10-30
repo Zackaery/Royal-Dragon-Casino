@@ -1,0 +1,17 @@
+{
+  "name": "royal-dragon-casino",
+  "version": "1.0.0",
+  "description": "A discord gambling bot.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zackaery",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.0.12"
+  }
+}
